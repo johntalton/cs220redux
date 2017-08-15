@@ -1,6 +1,5 @@
 // John Talton
 // CS220 Prog1.cpp
-// 439-57-4799
 #include <iostream.h>
 #include <fstream.h>
 #include <math.h>
